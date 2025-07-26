@@ -40,13 +40,13 @@ title: Home
     <div class="bento-box links">
       <h2>Links</h2>
       <a href="https://github.com/Arunabh13prt" target="_blank" style="margin-right: 20px;">
-        <img src="assets/css/icons/github.png" alt="GitHub" width="28" height="28" style="vertical-align: middle;" />
+        <img src="/assets/css/icons/Github.png" alt="GitHub" width="28" height="28" style="vertical-align: middle;" />
       </a>
       <a href="http://www.linkedin.com/in/arunabh-barooah-a6a5a524b" target="_blank" style="margin-right: 20px;">
-        <img src="assets/css/icons/linkedin.png" alt="LinkedIn" width="28" height="28" style="vertical-align: middle;" />
+        <img src="/assets/css/icons/LinkedIn.png" alt="LinkedIn" width="28" height="28" style="vertical-align: middle;" />
       </a>
       <a href="https://leetcode.com/u/abPrt/" target="_blank" style="margin-right: 20px;">
-        <img src="assets/css/icons/leetcode.png" alt="LeetCode" width="28" height="28" style="vertical-align: middle;" />
+        <img src="/assets/css/icons/Leetcode.png" alt="LeetCode" width="28" height="28" style="vertical-align: middle;" />
       </a>
       <a href="assets/file/arunabh_barooah_resume.pdf" download class="resume-download-btn">Download Resume</a>
     </div>
