@@ -1,0 +1,21 @@
+.bento-box.links a {
+  display: inline-block;
+  margin-right: 28px;
+  transition: transform 0.2s cubic-bezier(0.4, 0.2, 0.2, 1), box-shadow 0.2s cubic-bezier(0.4, 0.2, 0.2, 1);
+}
+
+.bento-box.links a:last-child {
+  margin-right: 0;
+}
+
+.bento-box.links img {
+  width: 44px;
+  height: 44px;
+  transition: transform 0.2s cubic-bezier(0.4, 0.2, 0.2, 1), box-shadow 0.2s cubic-bezier(0.4, 0.2, 0.2, 1);
+}
+
+.bento-box.links a:hover img {
+  transform: scale(1.08) translateY(-5px);
+  box-shadow: 0 6px 20px 0 rgba(60, 60, 100, 0.18);
+  z-index: 2;
+}
