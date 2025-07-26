@@ -11,22 +11,22 @@ title: My Photography
 <div class="bento-grid">
 
   <!-- Mountains Section -->
-  <a href="/mountains.html" class="bento-box glass-card">
-    <h2>🏔️ Mountains</h2>
+  <a href="{{ site.baseurl }}/mountains.html" class="bento-box glass-card">
+    <h2>🏔️ Malaysia</h2>
     <div class="image-previews">
-      <img src="/assets/images/photography/mountains/mountain1.jpg" alt="Mountain 1">
-      <img src="/assets/images/photography/mountains/mountain2.jpg" alt="Mountain 2">
-      <img src="/assets/images/photography/mountains/mountain3.jpg" alt="Mountain 3">
+      <img src="{{ site.baseurl }}/assets/css/images/photography/malaysia/DSCF2088_1.jpg" alt="Langkawi">
+      <img src="{{ site.baseurl }}/assets/css/images/photography/malaysia/DSCF2202.jpg" alt="Langkawi Beach">
+      <img src="{{ site.baseurl }}/assets/css/images/photography/malaysia/DSCF2211_1.jpg" alt="Kuala Lumpur">
     </div>
   </a>
 
   <!-- Kolkata Section -->
-  <a href="/photography/kolkata.html" class="bento-box glass-card">
+  <a href="{{ site.baseurl }}/photography/kolkata.html" class="bento-box glass-card">
     <h2>🌆 Streets of Kolkata</h2>
     <div class="image-previews">
-      <img src="/assets/images/photography/kolkata/kolkata1.jpg" alt="Kolkata 1">
-      <img src="/assets/images/photography/kolkata/kolkata2.jpg" alt="Kolkata 2">
-      <img src="/assets/images/photography/kolkata/kolkata3.jpg" alt="Kolkata 3">
+      <img src="{{ site.baseurl }}/assets/css/images/photography/kolkata/kolkata1.jpg" alt="Kolkata 1">
+      <img src="{{ site.baseurl }}/assets/css/images/photography/kolkata/kolkata2.jpg" alt="Kolkata 2">
+      <img src="{{ site.baseurl }}/assets/css/images/photography/kolkata/kolkata3.jpg" alt="Kolkata 3">
     </div>
   </a>
 

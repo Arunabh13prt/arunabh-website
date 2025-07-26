@@ -24,13 +24,14 @@ theme: minima
 
 header_pages:
   - index.markdown
-  - about.markdown
-  - projects.markdown
-  - contact.markdown
+  - photography.md
+
 
 sass:
   style: compressed
 
+baseurl: "/arunabh-website"
+url: "https://arunabh13prt.github.io"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
